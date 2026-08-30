@@ -12,15 +12,75 @@
 
 ## ⭐ Selected Work
 
+## ⭐ Selected Work
+
 <div align="center">
 
-🤖 **Paath Sohayok** · 📊 **SheetPulse** · 🖐️ **AirDraw** · 🔎 **Memory Search**
+<table>
+<tr>
+<td align="center">
 
-✍️ **SmartComm** · 🏏 **OFFSTUMP** · 📝 **Question Bank Parser**
+### 🤖 Paath Sohayok
+<img src="https://skillicons.dev/icons?i=nextjs,react,python" />
 
-<br/>
+</td>
+<td align="center">
 
-[🧠 Explore all projects →](https://manashjyoti.vercel.app/manashos)
+### 📊 SheetPulse
+<img src="https://skillicons.dev/icons?i=nextjs,react,python" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🖐️ AirDraw
+<img src="https://skillicons.dev/icons?i=python" />
+
+</td>
+<td align="center">
+
+### 🔎 Memory Search
+<img src="https://skillicons.dev/icons?i=python" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ✍️ SmartComm
+<img src="https://skillicons.dev/icons?i=nextjs,react" />
+
+</td>
+<td align="center">
+
+### 🏏 OFFSTUMP
+<img src="https://skillicons.dev/icons?i=nextjs,react,supabase,tailwind" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 📝 Question Bank Parser
+<img src="https://skillicons.dev/icons?i=python" />
+
+</td>
+<td align="center">
+
+### 🚀 More Projects
+<img src="https://skillicons.dev/icons?i=github" />
+
+</td>
+</tr>
+</table>
+
+<a href="https://manashjyoti.vercel.app/manashos">
+🧠 <strong>Explore all projects →</strong>
+</a>
 
 </div>
 
