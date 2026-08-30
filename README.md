@@ -315,9 +315,19 @@ Some of the experiments:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mjb199523&show_icons=true&hide_border=true&theme=transparent&cache_seconds=86400" width="48%" />
+### 💻 Building in public
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjb199523&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400" width="48%" />
+**Projects • Experiments • AI • Data • Technology**
+
+<br/>
+
+<a href="https://github.com/mjb199523?tab=repositories">
+<img src="https://img.shields.io/badge/📦_37%2B_Repositories-111111?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/mjb199523?tab=stars">
+<img src="https://img.shields.io/badge/⭐_Explore_My_Work-667eea?style=for-the-badge&labelColor=111111"/>
+</a>
 
 </div>
 
