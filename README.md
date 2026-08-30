@@ -191,65 +191,19 @@
 
 <div align="center">
 
-<table width="100%" cellspacing="0" cellpadding="18">
-
-<tr>
-
-<td align="center" width="33%">
-
-<h2>🎮</h2>
-
-<strong>31 Games</strong>
+🎮 <b>31 Games</b>
+&nbsp; · &nbsp;
+🤖 <b>AI Experiments</b>
+&nbsp; · &nbsp;
+💡 <b>Product Ideas</b>
 
 <br>
 
-<sub>Small challenges.<br>Big curiosity.</sub>
-
-</td>
-
-<td align="center" width="33%">
-
-<h2>🤖</h2>
-
-<strong>AI Experiments</strong>
-
-<br>
-
-<sub>Ideas turned into<br>working prototypes.</sub>
-
-</td>
-
-<td align="center" width="33%">
-
-<h2>💡</h2>
-
-<strong>Product Ideas</strong>
-
-<br>
-
-<sub>Things that might<br>be worth building.</sub>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<strong>Curiosity → Experiment → Build</strong>
-
-<br><br>
-
-<a href="https://manashjyoti.vercel.app/manashos">
-🚀 <strong>Explore the playground · ManashOS →</strong>
-</a>
+<sub>Curiosity → Experiment → Build</sub>
+&nbsp; · &nbsp;
+<a href="https://manashjyoti.vercel.app/manashos"><b>🚀 Explore ManashOS</b></a>
 
 </div>
-
----
-
-<div align="center">
 
 ### ☁️ Build · Experiment · Learn · Repeat
 
