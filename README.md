@@ -1,199 +1,110 @@
 <div align="center">
 
-<img src="./assets/hero.png" width="100%" alt="Manashjyoti Barman"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4a261,100:e76f51&height=180&section=header&text=MANASHJYOTI%20BARMAN&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Product%20%E2%80%A2%20AI%20%E2%80%A2%20Data%20%E2%80%A2%20Technology&descAlignY=58&descSize=17" width="100%"/>
+
+### 👋 I build products, intelligent systems & experiments.
+
+🌐 [Portfolio](https://manashjyoti.vercel.app)
+&nbsp; · &nbsp;
+🧠 [ManashOS](https://manashjyoti.vercel.app/manashos)
+&nbsp; · &nbsp;
+💼 [LinkedIn](https://www.linkedin.com/in/manashjyoti-barman-pmp%C2%AE-1b3265129/)
 
 </div>
 
-<br>
+---
+
+## ⭐ Selected Work
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td>
-
-<h2>☆ &nbsp; Selected Work</h2>
-
-</td>
-</tr>
-</table>
-
-<table width="100%" cellspacing="8" cellpadding="14">
+<table>
 <tr>
 
-<td width="25%" align="center">
-
-<img src="https://raw.githubusercontent.com/mjb199523/PaathSohayok/main/frontend/dist/favicon-192.png" width="64" height="64">
-
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/mjb199523/PaathSohayok/main/frontend/dist/favicon-192.png" width="64" height="64" style="object-fit:contain">
 <br>
-
-<b>PaathSohayok</b>
-
+<strong>PaathSohayok</strong>
 <br>
-
 <sub>Next.js · React · AI · LLM</sub>
-
 </td>
 
-<td width="25%" align="center">
-
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="64" height="64">
-
+<td align="center" width="25%">
+<strong>📊 SheetPulse</strong>
 <br>
-
-<b>SheetPulse</b>
-
-<br>
-
 <sub>Next.js · React · Python · SQL</sub>
-
 </td>
 
-<td width="25%" align="center">
-
-<img src="https://img.icons8.com/color/96/hand.png" width="64" height="64">
-
+<td align="center" width="25%">
+<strong>🖐️ AirDraw</strong>
 <br>
-
-<b>AirDraw</b>
-
-<br>
-
 <sub>Python · Computer Vision · Deep Learning</sub>
-
 </td>
 
-<td width="25%" align="center">
-
-<img src="https://img.icons8.com/color/96/search--v1.png" width="64" height="64">
-
+<td align="center" width="25%">
+<strong>🔎 Memory Search</strong>
 <br>
-
-<b>Memory Search</b>
-
-<br>
-
 <sub>Python · NLP · Semantic Search</sub>
-
 </td>
 
 </tr>
 
 <tr>
 
-<td width="25%" align="center">
-
-<img src="https://img.icons8.com/color/96/comments.png" width="64" height="64">
-
+<td align="center" width="25%">
+<strong>✍️ SmartComm</strong>
 <br>
-
-<b>SmartComm</b>
-
-<br>
-
 <sub>Next.js · React · AI · LLM</sub>
-
 </td>
 
-<td width="25%" align="center">
-
-<img src="https://raw.githubusercontent.com/mjb199523/offstump/main/logo.png" width="64" height="64">
-
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/mjb199523/offstump/main/logo.png" width="64" height="64" style="object-fit:contain">
 <br>
-
-<b>OFFSTUMP</b>
-
+<strong>OFFSTUMP</strong>
 <br>
-
-<sub>Next.js · React · Supabase · Tailwind</sub>
-
+<sub>Next.js · React · Supabase</sub>
 </td>
 
-<td width="25%" align="center">
-
-<img src="https://img.icons8.com/color/96/document.png" width="64" height="64">
-
+<td align="center" width="25%">
+<strong>📝 Question Bank Parser</strong>
 <br>
-
-<b>Question Bank Parser</b>
-
-<br>
-
-<sub>Python · AI · Parsing · Automation</sub>
-
+<sub>Python · AI · Automation</sub>
 </td>
 
-<td width="25%" align="center">
-
-<img src="https://img.icons8.com/color/96/brain.png" width="64" height="64">
-
+<td align="center" width="25%">
+<strong>🧠 SkillMirror</strong>
 <br>
-
-<b>SkillMirror</b>
-
-<br>
-
 <sub>AI · Product · Web</sub>
-
 </td>
 
 </tr>
 </table>
 
-<br>
-
-<a href="https://manashjyoti.vercel.app/manashos">
-🚀 <b>Explore all projects on ManashOS →</b>
-</a>
+**[🚀 Explore all projects on ManashOS →](https://manashjyoti.vercel.app/manashos)**
 
 </div>
 
-<br>
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-
-<table width="100%">
-<tr>
-<td>
-
-<h2>〈〉 &nbsp; Tech Stack</h2>
-
-</td>
-</tr>
-</table>
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,postgres,mongodb,supabase,git,github,figma" />
 
-<br><br>
+<br>
 
-<table width="100%">
-<tr>
-<td align="center">
-
-🤖 <b>AI & LLMs:</b>
-OpenAI · Claude · Gemini · Groq · RAG · AI Agents · Computer Vision
-
-</td>
-</tr>
-</table>
+🤖 **AI & LLMs:** OpenAI · Claude · Gemini · Groq · RAG · AI Agents · Computer Vision
 
 </div>
 
-<br>
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td>
-
-<h2>📈 &nbsp; GitHub Activity</h2>
-
-</td>
-</tr>
-</table>
-
-<img src="https://streak-stats.demolab.com/?user=mjb199523&theme=transparent&hide_border=true&background=00000000&ring=f97316&fire=f97316&currStreakNum=111827&sideNums=111827&currStreakLabel=555555&sideLabels=555555&dates=777777" width="100%" alt="GitHub Activity"/>
+<img src="https://streak-stats.demolab.com/?user=mjb199523&theme=transparent&hide_border=true&background=00000000&ring=e76f51&fire=f4a261&currStreakNum=e76f51&sideNums=e76f51&currStreakLabel=e76f51&sideLabels=555555&dates=777777" width="650" alt="GitHub Contribution Streak"/>
 
 <br>
 
@@ -201,87 +112,53 @@ OpenAI · Claude · Gemini · Groq · RAG · AI Agents · Computer Vision
 
 </div>
 
-<br>
+---
+
+## 🧪 Beyond the Code
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td>
-
-<h2>🧪 &nbsp; Beyond the Code</h2>
-
-</td>
-</tr>
-</table>
-
-<table width="100%" cellspacing="8" cellpadding="14">
+<table>
 <tr>
 
-<td width="33%" align="center">
-
-🎮
-
+<td align="center" width="33%">
+🎮 <strong>31 Games</strong>
 <br>
-
-<b>31 Games</b>
-
-<br>
-
 <sub>Cognitive challenges</sub>
-
 </td>
 
-<td width="33%" align="center">
-
-🤖
-
+<td align="center" width="33%">
+🤖 <strong>AI Experiments</strong>
 <br>
-
-<b>AI Experiments</b>
-
-<br>
-
 <sub>Prototypes & explorations</sub>
-
 </td>
 
-<td width="33%" align="center">
-
-💡
-
+<td align="center" width="33%">
+💡 <strong>Product Ideas</strong>
 <br>
-
-<b>Product Ideas</b>
-
-<br>
-
 <sub>Things worth building</sub>
-
 </td>
 
 </tr>
 </table>
 
-<a href="https://manashjyoti.vercel.app/manashos">
-🚀 <b>Enter ManashOS →</b>
-</a>
+**[🚀 Enter ManashOS →](https://manashjyoti.vercel.app/manashos)**
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<h3>☁️ &nbsp; Build · <span>Experiment</span> · Learn · <span>Repeat</span></h3>
+### 💭 Build · Experiment · Learn · Repeat
 
-🌐 <a href="https://manashjyoti.vercel.app">Portfolio</a>
+🌐 [Portfolio](https://manashjyoti.vercel.app)
 &nbsp; · &nbsp;
-🧠 <a href="https://manashjyoti.vercel.app/manashos">ManashOS</a>
+🧠 [ManashOS](https://manashjyoti.vercel.app/manashos)
 &nbsp; · &nbsp;
-💼 <a href="https://www.linkedin.com/in/manashjyoti-barman-pmp%C2%AE-1b3265129/">LinkedIn</a>
+💼 [LinkedIn](https://www.linkedin.com/in/manashjyoti-barman-pmp%C2%AE-1b3265129/)
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4a261,100:e76f51&height=90&section=footer" width="100%"/>
 
