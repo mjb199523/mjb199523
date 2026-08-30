@@ -4,19 +4,29 @@
 
 </div>
 
-## ⭐ Selected Work
+<br>
 
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="25%">
+<td>
+
+<span style="font-size:28px">☆</span>
+<strong style="font-size:26px"> Selected Work</strong>
+
+</td>
+</tr>
+</table>
+
+<table width="100%" cellspacing="10" cellpadding="18">
+<tr>
+
+<td width="25%" align="center">
 
 <img src="https://raw.githubusercontent.com/mjb199523/PaathSohayok/main/frontend/dist/favicon-192.png" width="72">
 
 <br><br>
 
-<strong>PaathSohayok</strong>
+<b>PaathSohayok</b>
 
 <br>
 
@@ -24,13 +34,13 @@
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="72">
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="64">
 
 <br><br>
 
-<strong>SheetPulse</strong>
+<b>SheetPulse</b>
 
 <br>
 
@@ -38,13 +48,13 @@
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-<img src="https://img.icons8.com/color/96/hand.png" width="72">
+<img src="https://img.icons8.com/color/96/hand.png" width="64">
 
 <br><br>
 
-<strong>AirDraw</strong>
+<b>AirDraw</b>
 
 <br>
 
@@ -52,29 +62,31 @@
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-<img src="https://img.icons8.com/color/96/search--v1.png" width="72">
+<img src="https://img.icons8.com/color/96/search--v1.png" width="64">
 
 <br><br>
 
-<strong>Memory Search</strong>
+<b>Memory Search</b>
 
 <br>
 
 <sub>Python · NLP · Semantic Search</sub>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
 
-<img src="https://img.icons8.com/color/96/comments.png" width="72">
+<img src="https://img.icons8.com/color/96/comments.png" width="64">
 
 <br><br>
 
-<strong>SmartComm</strong>
+<b>SmartComm</b>
 
 <br>
 
@@ -84,11 +96,11 @@
 
 <td align="center">
 
-<img src="https://raw.githubusercontent.com/mjb199523/offstump/main/logo.png" width="150">
+<img src="https://raw.githubusercontent.com/mjb199523/offstump/main/logo.png" width="145">
 
 <br>
 
-<strong>OFFSTUMP</strong>
+<b>OFFSTUMP</b>
 
 <br>
 
@@ -98,11 +110,11 @@
 
 <td align="center">
 
-<img src="https://img.icons8.com/color/96/document.png" width="72">
+<img src="https://img.icons8.com/color/96/document.png" width="64">
 
 <br><br>
 
-<strong>Question Bank Parser</strong>
+<b>Question Bank Parser</b>
 
 <br>
 
@@ -112,27 +124,39 @@
 
 <td align="center">
 
-<img src="https://img.icons8.com/color/96/brain.png" width="72">
+<img src="https://img.icons8.com/color/96/brain.png" width="64">
 
 <br><br>
 
-<strong>SkillMirror</strong>
+<b>SkillMirror</b>
 
 <br>
 
 <sub>AI · Product · Web</sub>
 
 </td>
+
 </tr>
 </table>
+
+<div align="center">
 
 🚀 **[Explore all projects on ManashOS →](https://manashjyoti.vercel.app/manashos)**
 
 </div>
 
----
+<br>
 
-## 〈〉 Tech Stack
+<table width="100%">
+<tr>
+<td>
+
+<span style="font-size:28px">&lt;/&gt;</span>
+<strong style="font-size:26px"> Tech Stack</strong>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -140,43 +164,63 @@
 
 </div>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td align="center">
 
-| 🤖 **AI & LLMs** | OpenAI · Claude · Gemini · Groq · RAG · AI Agents · Computer Vision |
-|:---|:---|
+🤖 <b>AI & LLMs:</b>
+OpenAI · Claude · Gemini · Groq · RAG · AI Agents · Computer Vision
 
-</div>
+</td>
+</tr>
+</table>
 
----
+<br>
 
-## 📈 GitHub Activity
+<table width="100%">
+<tr>
+<td>
+
+<span style="font-size:28px">📈</span>
+<strong style="font-size:26px"> GitHub Activity</strong>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=mjb199523&theme=transparent&hide_border=true&background=00000000&ring=f97316&fire=f97316&currStreakNum=111827&sideNums=111827&currStreakLabel=555555&sideLabels=555555&dates=777777" width="100%" alt="GitHub Activity"/>
 
-</div>
+<br>
 
-<div align="center">
-
-**Keep building. 🚀**
+<sub>Keep building. 🚀</sub>
 
 </div>
 
----
+<br>
 
-## 🧪 Beyond the Code
+<table width="100%">
+<tr>
+<td>
 
-<div align="center">
+<span style="font-size:28px">🧪</span>
+<strong style="font-size:26px"> Beyond the Code</strong>
 
-<table>
+</td>
+</tr>
+</table>
+
+<table width="100%" cellspacing="8" cellpadding="14">
 <tr>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-### 🎮
+🎮
 
-<strong>31 Games</strong>
+<br>
+
+<b>31 Games</b>
 
 <br>
 
@@ -184,11 +228,13 @@
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-### 🤖
+🤖
 
-<strong>AI Experiments</strong>
+<br>
+
+<b>AI Experiments</b>
 
 <br>
 
@@ -196,11 +242,13 @@
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-### 💡
+💡
 
-<strong>Product Ideas</strong>
+<br>
+
+<b>Product Ideas</b>
 
 <br>
 
@@ -211,15 +259,15 @@
 </tr>
 </table>
 
-🚀 **[Enter ManashOS →](https://manashjyoti.vercel.app/manashos)**
-
-</div>
-
----
-
 <div align="center">
 
-### ☁️ Build · <span style="color:#e76f51">Experiment</span> · Learn · <span style="color:#e76f51">Repeat</span>
+🚀 **[Enter ManashOS →](https://manashjyoti.vercel.app/manashos)**
+
+<br><br>
+
+☁️ <b>Build</b> · <span>Experiment</span> · <b>Learn</b> · <span>Repeat</span>
+
+<br>
 
 🌐 [Portfolio](https://manashjyoti.vercel.app)
 &nbsp; · &nbsp;
