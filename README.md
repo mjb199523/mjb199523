@@ -32,6 +32,7 @@
 <a href="https://manashjyoti.vercel.app/manashos">🧠 <strong>Explore all projects →</strong></a>
 
 </div>
+
 ---
 
 ## 🛠️ Tech
