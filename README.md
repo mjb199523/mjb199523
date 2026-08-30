@@ -72,27 +72,34 @@ Currently exploring **Generative AI, AI Agents, RAG, semantic search, computer v
 </a>
 
 </div>
+
+# 🛠️ Tech Stack
+
 # 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,fastapi,postgres,mongodb,supabase,git,github,figma" />
+### 💻 Build
 
-<br/><br/>
+`Python` · `JavaScript` · `TypeScript` · `SQL`
 
-**AI**
+### 🎨 Frontend
 
-`OpenAI` · `Claude` · `Gemini` · `Groq` · `RAG` · `AI Agents` · `Computer Vision`
+`React` · `Next.js` · `Tailwind CSS` · `Three.js`
 
-<br/>
+### ⚙️ Backend & Data
 
-**Product**
+`Node.js` · `FastAPI` · `PostgreSQL` · `MongoDB` · `Supabase`
 
-`Product Discovery` · `PRDs` · `Agile` · `Roadmaps` · `UAT` · `Digital Transformation`
+### 🤖 AI
+
+`OpenAI` · `Claude` · `Gemini` · `Groq` · `RAG` · `AI Agents`
+
+### 🧰 Tools
+
+`Git` · `GitHub` · `Figma` · `Cursor` · `Claude Code` · `Codex`
 
 </div>
-
----
 
 # 🧪 Beyond Work
 
