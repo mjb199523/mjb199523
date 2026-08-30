@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Manashjyoti 👋</h1>
-<h3 align="center">Full-stack Engineer & AI Builder — I ship LLM-powered products and open-source my experiments.</h3>
+<h3 align="center">Product • AI • Data • Technology</h3>
+<p align="center">I build and ship products at the intersection of AI and data — then open-source the experiments along the way.</p>
 
 <p align="center">
   <a href="https://manashjyoti.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -71,14 +72,14 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Domains
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,postgres,mongodb,supabase,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,postgres,supabase,figma,git,github" />
 </p>
 
 <p align="center">
-🤖 OpenAI · Claude · Gemini · Groq · RAG · AI Agents · Computer Vision
+🤖 LLM Products · RAG · AI Agents · Data Analytics · 0→1 Product Development
 </p>
 
 ---
