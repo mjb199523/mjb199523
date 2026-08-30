@@ -12,78 +12,26 @@
 
 ## ⭐ Selected Work
 
-## ⭐ Selected Work
-
 <div align="center">
 
 <table>
 <tr>
-<td align="center">
-
-### 🤖 Paath Sohayok
-<img src="https://skillicons.dev/icons?i=nextjs,react,python" />
-
-</td>
-<td align="center">
-
-### 📊 SheetPulse
-<img src="https://skillicons.dev/icons?i=nextjs,react,python" />
-
-</td>
+<td align="center">🤖 <strong>Paath Sohayok</strong><br><sub>Next.js · React · AI · LLM</sub></td>
+<td align="center">📊 <strong>SheetPulse</strong><br><sub>Next.js · React · Python · SQL</sub></td>
+<td align="center">🖐️ <strong>AirDraw</strong><br><sub>Python · Computer Vision · Deep Learning</sub></td>
+<td align="center">🔎 <strong>Memory Search</strong><br><sub>Python · NLP · Semantic Search</sub></td>
 </tr>
-
 <tr>
-<td align="center">
-
-### 🖐️ AirDraw
-<img src="https://skillicons.dev/icons?i=python" />
-
-</td>
-<td align="center">
-
-### 🔎 Memory Search
-<img src="https://skillicons.dev/icons?i=python" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### ✍️ SmartComm
-<img src="https://skillicons.dev/icons?i=nextjs,react" />
-
-</td>
-<td align="center">
-
-### 🏏 OFFSTUMP
-<img src="https://skillicons.dev/icons?i=nextjs,react,supabase,tailwind" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 📝 Question Bank Parser
-<img src="https://skillicons.dev/icons?i=python" />
-
-</td>
-<td align="center">
-
-### 🚀 More Projects
-<img src="https://skillicons.dev/icons?i=github" />
-
-</td>
+<td align="center">✍️ <strong>SmartComm</strong><br><sub>Next.js · React · AI · LLM</sub></td>
+<td align="center">🏏 <strong>OFFSTUMP</strong><br><sub>Next.js · React · Supabase · Tailwind</sub></td>
+<td align="center">📝 <strong>Question Bank Parser</strong><br><sub>Python · AI · Parsing · Automation</sub></td>
+<td align="center">🧠 <strong>SkillMirror</strong><br><sub>AI · Product · Web</sub></td>
 </tr>
 </table>
 
-<a href="https://manashjyoti.vercel.app/manashos">
-🧠 <strong>Explore all projects →</strong>
-</a>
+<a href="https://manashjyoti.vercel.app/manashos">🧠 <strong>Explore all projects →</strong></a>
 
 </div>
-
 ---
 
 ## 🛠️ Tech
