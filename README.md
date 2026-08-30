@@ -187,36 +187,21 @@
 
 ---
 
+
 ## 🧪 Beyond the Code
 
 <div align="center">
 
-🎮 <b>31 Games</b>
-&nbsp; · &nbsp;
-🤖 <b>AI Experiments</b>
-&nbsp; · &nbsp;
-💡 <b>Product Ideas</b>
+**🎮 31 Games** &nbsp; · &nbsp; **🤖 AI Experiments** &nbsp; · &nbsp; **💡 Random Ideas**
 
 <br>
 
-<sub>Curiosity → Experiment → Build</sub>
-&nbsp; · &nbsp;
-<a href="https://manashjyoti.vercel.app/manashos"><b>🚀 Explore ManashOS</b></a>
-
-</div>
-
-### ☁️ Build · Experiment · Learn · Repeat
+*Not everything needs a reason to be built.*
 
 <br>
 
-🌐 [Portfolio](https://manashjyoti.vercel.app)
-&nbsp; · &nbsp;
-🧠 [ManashOS](https://manashjyoti.vercel.app/manashos)
-&nbsp; · &nbsp;
-💼 [LinkedIn](https://www.linkedin.com/in/manashjyoti-barman-pmp%C2%AE-1b3265129/)
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4a261,100:e76f51&height=90&section=footer" width="100%"/>
+<a href="https://manashjyoti.vercel.app/manashos">
+🚀 <strong>Explore ManashOS →</strong>
+</a>
 
 </div>
