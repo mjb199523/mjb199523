@@ -73,33 +73,51 @@ Currently exploring **Generative AI, AI Agents, RAG, semantic search, computer v
 
 </div>
 
-# 🛠️ Tech Stack
+---
 
 # 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Build
+### 💻 Languages
 
-`Python` · `JavaScript` · `TypeScript` · `SQL`
+<img src="https://skillicons.dev/icons?i=python,js,ts" />
+
+<br/><br/>
 
 ### 🎨 Frontend
 
-`React` · `Next.js` · `Tailwind CSS` · `Three.js`
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs" />
+
+<br/><br/>
 
 ### ⚙️ Backend & Data
 
-`Node.js` · `FastAPI` · `PostgreSQL` · `MongoDB` · `Supabase`
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mongodb,supabase" />
 
-### 🤖 AI
+<br/><br/>
 
-`OpenAI` · `Claude` · `Gemini` · `Groq` · `RAG` · `AI Agents`
+### 🤖 AI & Intelligent Systems
+
+<img src="https://skillicons.dev/icons?i=openai" />
+
+<br/>
+
+**Claude · Gemini · Groq · RAG · AI Agents · Computer Vision**
+
+<br/><br/>
 
 ### 🧰 Tools
 
-`Git` · `GitHub` · `Figma` · `Cursor` · `Claude Code` · `Codex`
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+<br/>
+
+**Cursor · Claude Code · Codex**
 
 </div>
+
+---
 
 # 🧪 Beyond Work
 
