@@ -18,38 +18,77 @@
 
 <div align="center">
 
-<p>
-<img src="https://raw.githubusercontent.com/mjb199523/PaathSohayok/main/frontend/dist/favicon-192.png" width="34" height="34" valign="middle">
-&nbsp;<b>PaathSohayok</b> <sub>Next.js · AI</sub>
-&nbsp;&nbsp;•&nbsp;&nbsp;
+<table width="100%" cellpadding="8" cellspacing="0">
+<tr>
 
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="34" height="34" valign="middle">
-&nbsp;<b>SheetPulse</b> <sub>Next.js · Python</sub>
-&nbsp;&nbsp;•&nbsp;&nbsp;
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/mjb199523/PaathSohayok/main/frontend/dist/favicon-192.png" width="42" height="42">
+<br>
+<b>PaathSohayok</b>
+<br>
+<sub>Next.js · AI</sub>
+</td>
 
-<img src="https://img.icons8.com/color/96/hand.png" width="34" height="34" valign="middle">
-&nbsp;<b>AirDraw</b> <sub>Python · CV</sub>
-&nbsp;&nbsp;•&nbsp;&nbsp;
+<td align="center" width="12.5%">
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="42" height="42">
+<br>
+<b>SheetPulse</b>
+<br>
+<sub>Next.js · Python</sub>
+</td>
 
-<img src="https://img.icons8.com/color/96/search--v1.png" width="34" height="34" valign="middle">
-&nbsp;<b>Memory Search</b> <sub>Python · NLP</sub>
-&nbsp;&nbsp;•&nbsp;&nbsp;
+<td align="center" width="12.5%">
+<img src="https://img.icons8.com/color/96/hand.png" width="42" height="42">
+<br>
+<b>AirDraw</b>
+<br>
+<sub>Python · CV</sub>
+</td>
 
-<img src="https://img.icons8.com/color/96/comments.png" width="34" height="34" valign="middle">
-&nbsp;<b>SmartComm</b> <sub>Next.js · AI</sub>
-&nbsp;&nbsp;•&nbsp;&nbsp;
+<td align="center" width="12.5%">
+<img src="https://img.icons8.com/color/96/search--v1.png" width="42" height="42">
+<br>
+<b>Memory Search</b>
+<br>
+<sub>Python · NLP</sub>
+</td>
 
-<img src="https://raw.githubusercontent.com/mjb199523/offstump/main/logo.png" width="34" height="34" valign="middle">
-&nbsp;<b>OFFSTUMP</b> <sub>Next.js · Supabase</sub>
-&nbsp;&nbsp;•&nbsp;&nbsp;
+<td align="center" width="12.5%">
+<img src="https://img.icons8.com/color/96/comments.png" width="42" height="42">
+<br>
+<b>SmartComm</b>
+<br>
+<sub>Next.js · AI</sub>
+</td>
 
-<img src="https://img.icons8.com/color/96/document.png" width="34" height="34" valign="middle">
-&nbsp;<b>Question Bank Parser</b> <sub>Python · AI</sub>
-&nbsp;&nbsp;•&nbsp;&nbsp;
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/mjb199523/offstump/main/logo.png" width="42" height="42">
+<br>
+<b>OFFSTUMP</b>
+<br>
+<sub>Next.js · Supabase</sub>
+</td>
 
-<img src="https://img.icons8.com/color/96/brain.png" width="34" height="34" valign="middle">
-&nbsp;<b>SkillMirror</b> <sub>AI · Web</sub>
-</p>
+<td align="center" width="12.5%">
+<img src="https://img.icons8.com/color/96/document.png" width="42" height="42">
+<br>
+<b>Question Bank</b>
+<br>
+<sub>Python · AI</sub>
+</td>
+
+<td align="center" width="12.5%">
+<img src="https://img.icons8.com/color/96/brain.png" width="42" height="42">
+<br>
+<b>SkillMirror</b>
+<br>
+<sub>AI · Web</sub>
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <a href="https://manashjyoti.vercel.app/manashos">
 🚀 <strong>Explore all projects on ManashOS →</strong>
