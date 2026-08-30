@@ -315,13 +315,9 @@ Some of the experiments:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mjb199523&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mjb199523&show_icons=true&hide_border=true&theme=transparent&cache_seconds=86400" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mjb199523&hide_border=true&theme=transparent" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjb199523&layout=compact&hide_border=true&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjb199523&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400" width="48%" />
 
 </div>
 
