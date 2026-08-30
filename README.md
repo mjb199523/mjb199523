@@ -55,57 +55,15 @@ Currently exploring **Generative AI, AI Agents, RAG, semantic search, computer v
 
 <div align="center">
 
-### 🤖 Paath Sohayok
+🤖 **Paath Sohayok** &nbsp;•&nbsp;
+📊 **SheetPulse** &nbsp;•&nbsp;
+🖐️ **AirDraw** &nbsp;•&nbsp;
+🔎 **Memory Search** &nbsp;•&nbsp;
+✍️ **SmartComm** &nbsp;•&nbsp;
+🏏 **OFFSTUMP** &nbsp;•&nbsp;
+📝 **Question Bank Parser**
 
-**Generative AI × Education**
-
-Bilingual AI-powered education tools for lesson plans, assessments and classroom activities.
-
----
-
-### 📊 SheetPulse
-
-**Data × Intelligence**
-
-Making spreadsheet data easier to explore, analyse and understand.
-
----
-
-### 🖐️ AirDraw
-
-**Computer Vision × Interaction**
-
-An interactive creative experience powered by real-time hand gestures.
-
----
-
-### 🔎 Memory Search
-
-**NLP × Semantic Search**
-
-Finding information through meaning rather than rigid keyword matching.
-
----
-
-### ✍️ SmartComm
-
-**AI × Productivity**
-
-Turning rough thoughts into polished, contextual communication.
-
----
-
-### 🏏 OFFSTUMP
-
-**Product × Digital Experience**
-
-A digital experience built for an indoor sports facility.
-
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <a href="https://manashjyoti.vercel.app/manashos">
 
@@ -114,9 +72,6 @@ A digital experience built for an indoor sports facility.
 </a>
 
 </div>
-
----
-
 # 🛠️ Tech Stack
 
 <div align="center">
