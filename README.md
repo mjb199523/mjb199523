@@ -18,63 +18,39 @@
 
 <div align="center">
 
-<table>
+<table width="100%" cellpadding="12" cellspacing="0">
 <tr>
 
 <td align="center" width="25%">
-
-<img src="https://raw.githubusercontent.com/mjb199523/PaathSohayok/main/frontend/dist/favicon-192.png" width="64" height="64">
-
-<br><br>
-
-<strong>PaathSohayok</strong>
-
+<img src="https://raw.githubusercontent.com/mjb199523/PaathSohayok/main/frontend/dist/favicon-192.png" width="56" height="56">
 <br>
-
-<sub>Next.js · React · AI · LLM</sub>
-
+<b>PaathSohayok</b>
+<br>
+<sub>Next.js · React · AI</sub>
 </td>
 
 <td align="center" width="25%">
-
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="64" height="64">
-
-<br><br>
-
-<strong>SheetPulse</strong>
-
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="56" height="56">
 <br>
-
-<sub>Next.js · React · Python · SQL</sub>
-
+<b>SheetPulse</b>
+<br>
+<sub>Next.js · Python · SQL</sub>
 </td>
 
 <td align="center" width="25%">
-
-<img src="https://img.icons8.com/color/96/hand.png" width="64" height="64">
-
-<br><br>
-
-<strong>AirDraw</strong>
-
+<img src="https://img.icons8.com/color/96/hand.png" width="56" height="56">
 <br>
-
-<sub>Python · Computer Vision · Deep Learning</sub>
-
+<b>AirDraw</b>
+<br>
+<sub>Python · Computer Vision</sub>
 </td>
 
 <td align="center" width="25%">
-
-<img src="https://img.icons8.com/color/96/search--v1.png" width="64" height="64">
-
-<br><br>
-
-<strong>Memory Search</strong>
-
+<img src="https://img.icons8.com/color/96/search--v1.png" width="56" height="56">
 <br>
-
-<sub>Python · NLP · Semantic Search</sub>
-
+<b>Memory Search</b>
+<br>
+<sub>Python · NLP · Search</sub>
 </td>
 
 </tr>
@@ -82,59 +58,35 @@
 <tr>
 
 <td align="center">
-
-<img src="https://img.icons8.com/color/96/comments.png" width="64" height="64">
-
-<br><br>
-
-<strong>SmartComm</strong>
-
+<img src="https://img.icons8.com/color/96/comments.png" width="56" height="56">
 <br>
-
-<sub>Next.js · React · AI · LLM</sub>
-
+<b>SmartComm</b>
+<br>
+<sub>Next.js · React · AI</sub>
 </td>
 
 <td align="center">
-
-<img src="https://raw.githubusercontent.com/mjb199523/offstump/main/logo.png" width="64" height="64">
-
-<br><br>
-
-<strong>OFFSTUMP</strong>
-
+<img src="https://raw.githubusercontent.com/mjb199523/offstump/main/logo.png" width="56" height="56">
 <br>
-
+<b>OFFSTUMP</b>
+<br>
 <sub>Next.js · React · Supabase</sub>
-
 </td>
 
 <td align="center">
-
-<img src="https://img.icons8.com/color/96/document.png" width="64" height="64">
-
-<br><br>
-
-<strong>Question Bank Parser</strong>
-
+<img src="https://img.icons8.com/color/96/document.png" width="56" height="56">
 <br>
-
+<b>Question Bank Parser</b>
+<br>
 <sub>Python · AI · Automation</sub>
-
 </td>
 
 <td align="center">
-
-<img src="https://img.icons8.com/color/96/brain.png" width="64" height="64">
-
-<br><br>
-
-<strong>SkillMirror</strong>
-
+<img src="https://img.icons8.com/color/96/brain.png" width="56" height="56">
 <br>
-
+<b>SkillMirror</b>
+<br>
 <sub>AI · Product · Web</sub>
-
 </td>
 
 </tr>
@@ -143,11 +95,10 @@
 <br>
 
 <a href="https://manashjyoti.vercel.app/manashos">
-🚀 <strong>Explore all projects on ManashOS →</strong>
+<strong>🚀 Explore all projects →</strong>
 </a>
 
 </div>
-
 ---
 
 ## 🛠️ Tech Stack
